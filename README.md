@@ -1,7 +1,6 @@
 # CoffeeMaker-QT
 A course project, Coffee Maker UI, QML (QT), Qt Design Studio
-- includes only source files, create a project in Qt Design Studio / Qt Creator and import/add the files. Gif is not included (used: https://fi.pinterest.com/pin/hey--
-67624431879681568).
+- includes only source files, create a project in Qt Design Studio / Qt Creator and import/add the files. Gif is not included (used: https://fi.pinterest.com/pin/hey--67624431879681568).
 The coffee machine UI is based on a QT example, mainly for ideas and navigation. The implementation includes:
 - Three Views: Home view, coffee selection view, and coffee brewing view (an animation during brewing).
 - Folder Structure: Organized to include components, images, and transitions (not final).
